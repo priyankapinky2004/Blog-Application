@@ -20,10 +20,10 @@ cd Blog-Application
 
 2⃣ Create and Activate a Virtual Environment
 
-# Create virtual environment
+Create virtual environment
 py -m venv env  
 
-# Activate it (Windows)
+Activate it (Windows)
 .\env\Scripts\activate  
 
 3⃣ Install Dependencies
