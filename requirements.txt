@@ -3,3 +3,16 @@ django
 Pillow
 sqlparse
 tzdata
+
+"""
+step 1 : create a virtual environment [ py -m venv env ]
+step 2 : activate the virtual environment [ .\env\Scripts\activate ]
+step 3 : install the django [ pip install django ]
+step 4 : install pillow [ pip install pillow ]
+step 5 : makemigrations [ python manage.py makemigrations ]
+step 6 : migrate [ python manage.py migrate ]
+step 7 : run the server [ python manage.py runserver ]
+step 8 : create a superuser [ python manage.py createsuperuser ]    [ /admin,---]
+
+
+""" 
